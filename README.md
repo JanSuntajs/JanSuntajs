@@ -1,5 +1,6 @@
-## Hi there 👋
+## About me
 
+I am a theoretical physicist with a background in the field of quantum chaos and a specialist in numerical simulations of complex physical systems.
 <!--
 **JanSuntajs/JanSuntajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
